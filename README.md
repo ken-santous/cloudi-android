@@ -52,12 +52,3 @@ It's recommended to run H4CKINTO behind a reverse proxy such as [NGINX](https://
   - npm start
 <h4>"Don't forget to run these commands in root folder of <strong>H4CKINTO</strong>, or else it will not work."</h4>
 
-
-## Disclaimer
-<b>Piyush Banik Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
-H4CKINTO is built for Educational Purpose. Use at your own Risk.</b>
-
-<br>
-<p align="center">Made with ❤️ By <a href="https://piyushbanik.online">Piyush Banik</a></p>
-<a align="center" href="https://www.buymeacoffee.com/PiyushBanik"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=PiyushBanik&button_colour=ff0000&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00"></a>
-
